@@ -12,23 +12,7 @@ RawData <- read.csv("Campylobacter.csv")
 a <- nrow(RawData)
 b <- nrow(Taxonomy)
 
-RawData$Animal.common.name[1]
-[1] "Acadian flycatcher"
-Taxonomy$Common.Name.Used[1]
-[1] "African fat-tailed gecko"
-
 Taxonomy$AniNum <- as.numeric(as.factor(Taxonomy$Common.Name.Used))
-
-
-for (i in 1:a) {
-  if (RawData$Animal.common.name[i] == Taxonomy$Common.Name.Used[215]) {
-  RawData$kingdom[i] <- Taxonomy$kingdom[215]
-  RawData$class[i] <- Taxonomy$class[215]
-  RawData$order[i] <- Taxonomy$order[215]
-  RawData$family[i] <- Taxonomy$family[215]
-  RawData$genius[i] <- Taxonomy$genius[215]
-}
-}
 
 # Works now I need it to go through all the names in taxonomy
 
