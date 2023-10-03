@@ -39,4 +39,5 @@ This table is the same as Enumerated_boxplot.csv except for is also includes dat
 Total_Prevalence_Dataset1.csv  
 This table contains all the information that was in Fig. XX Journal_forestplot.png, and also included the fixed effect model, random effect model confidence limits, and the references for all the reports that the data came from.  
 
-
+MetaanalysisReference.docx
+This file contains the references for all the review articles that were part of the meta-analysis for this study.  It does not include references from the raw data.
