@@ -1,7 +1,7 @@
 # Ani_feces_roof
 Repository for systematic review of animal fecal pathogens that have the potential to affect quality of roof harvested rain water.  Work conducted under ORISE and US EPA.
 
-The Main Branch is where all the files are stored the create the figures and tables that are in the journal article.
+The Main Branch is where all the files that were directly held to creat the journal article.
 
 
 N_Am_Meta_J-EPC0033278-QP-0_20230627_v03.csv
