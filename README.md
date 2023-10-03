@@ -1,7 +1,8 @@
-# Ani_feces_roof
+# Ani_feces_roof Animal Taxonomy
 Repository for systematic review of animal fecal pathogens that have the potential to affect quality of roof harvested rain water.  Work conducted under ORISE and US EPA.
 
-File Names and Descriptions
+These are all the files that were used to add the animal taxonomy to the literature review input tables in the main branch.
+
 
 Files used to create final figures and tables for Journal article
 
