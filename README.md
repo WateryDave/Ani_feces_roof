@@ -7,12 +7,12 @@ WoS_feces_pathogen_DHD_J-EPD-0033278-QP-1-0_20220309_v07.xlsb.zip
 This file contains all of the data that was directly drawn from the reports, All of the exclusion criteria were applied to this data set, except for exclusions that are based on the groupings that were of interest for the article.  For example you can find data on the pathogen Yersinia which was not included in the study.  
 
 FIB_Salmonella_DATA_DHD_J-EPC0033278-QP-1-0_20230115_v05.xlsx  
-This is a paired down version of WoS_feces_pathogen_DHD_J-EPD-0033278-QP-1-0_20220309_v07.xlsb.zip that only looks at the 7 pathogens Coliform, E. Coli, Enterococci, Giardia, Cryptosporidium, Campylobacter, and Salmonella.  Data from this table was used to create the following tables that were used as the inputs in the Main Branch
+This is a paired down version of WoS_feces_pathogen_DHD_J-EPD-0033278-QP-1-0_20220309_v07.xlsb.zip that only looks at the 7 pathogens Coliform, E. Coli, Enterococci, Giardia, Cryptosporidium, Campylobacter, and Salmonella.  Data from this table was used to create the following tables that were used as the inputs in the Main Branch.  
 
-Campylobacter_STUDYN_DHD_J-EPC0033278-QP-1-0_20230627_v03.csv
-Coliform_STUDYN_DHD_J-EPC0033278-QP-1-0_20230627_v03.csv
-Cryptosporidium_STUDYN_DHD_J-EPC0033278-QP-1-0_220230627_v03.csv
-EColi_STUDYN_DHD_J-EPC0033278-QP-1-0_20230627_v03.csv
-Enteriococci_STUDYN_DHD_J-EPC0033278-QP-1-0_20230627_v03.csv
-Giardia_STUDYN_DHD_J-EPC0033278-QP-1-0_20230627_v03.csv
-Salmonella_STUDYN_DHD_J-EPC0033278-QP-1-0_20230627_v03.csv
+Campylobacter_STUDYN_DHD_J-EPC0033278-QP-1-0_20230627_v03.csv  
+Coliform_STUDYN_DHD_J-EPC0033278-QP-1-0_20230627_v03.csv  
+Cryptosporidium_STUDYN_DHD_J-EPC0033278-QP-1-0_220230627_v03.csv  
+EColi_STUDYN_DHD_J-EPC0033278-QP-1-0_20230627_v03.csv  
+Enteriococci_STUDYN_DHD_J-EPC0033278-QP-1-0_20230627_v03.csv  
+Giardia_STUDYN_DHD_J-EPC0033278-QP-1-0_20230627_v03.csv  
+Salmonella_STUDYN_DHD_J-EPC0033278-QP-1-0_20230627_v03.csv  
