@@ -3,7 +3,6 @@ Repository for systematic review of animal fecal pathogens that have the potenti
 
 The Main Branch is where all the files that were directly held to creat the journal article.
 
-
 N_Am_Meta_J-EPC0033278-QP-0_20230627_v03.csv
 This is the R script that was used to conduct the metaanalysis.
 
@@ -36,3 +35,4 @@ This table is the same as Enumerated_boxplot.csv except for is also includes dat
 
 Total_Prevalence_Dataset1.csv
 This table contains all the information that was in Fig. XX Journal_forestplot.png, and also included the fixed effect model, random effect model confidence limits, and the references for all the reports that the data came from.
+
