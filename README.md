@@ -22,13 +22,13 @@ These files are pretty much the same as the input files for the main branch I ju
 
 Campylobacter.csv  
 Giardia.csv  
-Salmonella.csv
-Cryptosporidium.csv
+Salmonella.csv  
+Cryptosporidium.csv  
 
 Output files
 These are a shorten version of the input files for this branch with a focus on adding the Animal taxonomic information.  The taxonomic information that was added to these output files was copied and pasted in to the main branch output files.
 
-AddedAnimalNamesCampy.csv
-AddedAnimalNamesCryp.csv
-AddedAnimalNamesGia.csv
-AddedAnimalNamesSal.csv
+AddedAnimalNamesCampy.csv  
+AddedAnimalNamesCryp.csv  
+AddedAnimalNamesGia.csv  
+AddedAnimalNamesSal.csv  
