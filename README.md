@@ -1,7 +1,10 @@
-# Ani_feces_roof
+# Ani_feces_roof Main
 Repository for systematic review of animal fecal pathogens that have the potential to affect quality of roof harvested rain water.  Work conducted under ORISE and US EPA.
 
 The Main Branch is where all the files that were directly held to creat the journal article.
+RawData Branch unprocessed data.
+Animal Taxonomy Branch processes for adding animal taxonomic information to unprocessed data.
+GRADE Branch is where information on where GRADE and how GRADE was process and added to the unprocessed data.
 
 N_Am_Meta_J-EPC0033278-QP-0_20230627_v03.csv  
 This is the R script that was used to conduct the metaanalysis.
