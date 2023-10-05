@@ -41,3 +41,9 @@ This table contains all the information that was in Fig. XX Journal_forestplot.p
 
 MetaanalysisReference.docx
 This file contains the references for all the review articles that were part of the meta-analysis for this study.  It does not include references from the raw data.
+
+Eligibility Criteria.docx  
+This word document contains a table of all the elegibility criteria for reports for the systematic review.  In the table are a detailed explaination of each of the elegibility criteria as well as a the justification for why each of the elegibility criteria was used.  
+
+Grouping Pathogens.docx  
+This word document contains a table with how the pathogens were grouped.  The first column Pathogen is the pathogen category that the pathogen falls under.  The thrid column is the name of the pathogen strain, species, serotype, etc.. from the report.  The second column is meta-analysis group which is the group that the retrieved pathogen names are grouped under.  The fourth column is the justification.  
