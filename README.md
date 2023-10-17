@@ -48,5 +48,5 @@ This word document contains a table of all the elegibility criteria for reports 
 Grouping Pathogens.docx  
 This word document contains a table with how the pathogens were grouped.  The first column Pathogen is the pathogen category that the pathogen falls under.  The thrid column is the name of the pathogen strain, species, serotype, etc.. from the report.  The second column is meta-analysis group which is the group that the retrieved pathogen names are grouped under.  The fourth column is the justification.  
 
-ExampleMeta.docx
-This is a word document that contains a walk through of the processing of the data for birds and Escherichia coli from Fricker et al. 2018.
+ExampleMeta.docx  
+This is a word document that contains a walk through of the processing of the data for birds and Escherichia coli from Fricker et al. 2018.  
